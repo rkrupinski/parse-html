@@ -1,6 +1,6 @@
 {
   "name": "parse-html",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Dead simple HTML parser",
   "author": "Rafał Krupiński",
   "license": "MIT",
