@@ -1,0 +1,20 @@
+{
+  "name": "parse-html",
+  "version": "0.0.0",
+  "description": "Dead simple HTML parser",
+  "author": "Rafał Krupiński",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rkrupinski/parse-html.git"
+  },
+  "keywords": [
+    "parse",
+    "html"
+  ],
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "gulp-jshint": "^1.6.1",
+    "jshint-stylish": "^0.2.0"
+  }
+}
